@@ -28,13 +28,13 @@ An interactive **Streamlit web application** to perform **data analysis and visu
 ## 📸 Screenshots
 
 ### 1️⃣ **Home Page**
-![Home Page](https://via.placeholder.com/800x400?text=Home+Page+Screenshot)
+![Home Page](homepage.png)
 
 ### 2️⃣ **Overview**
-![Overview](https://via.placeholder.com/800x400?text=Overview+Screenshot)
+![Overview](overview.png)
 
 ### 3️⃣ **Correlation Heatmap**
-![Heatmap](https://via.placeholder.com/800x400?text=Correlation+Heatmap+Screenshot)
+![Heatmap](correlation.png)
 
 ---
 
