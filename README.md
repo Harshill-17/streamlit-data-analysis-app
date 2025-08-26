@@ -19,9 +19,9 @@ An interactive **Streamlit web application** to perform **data analysis and visu
 
 ## 🛠 Tech Stack
 
-- **Python** (Pandas, Numpy)
-- **Streamlit** (Frontend + Backend)
-- **Seaborn & Matplotlib** (Data Visualization)
+- **Python** 
+- **Streamlit** 
+- **Plotly & Matplotlib** 
 
 ---
 
@@ -36,12 +36,6 @@ An interactive **Streamlit web application** to perform **data analysis and visu
 ### 3️⃣ **Correlation Heatmap**
 ![Heatmap](correlation.png)
 
----
-
-### 🌍 Live Demo
-```bash
-
-```
 ---
 
 ### ✨ How It Works
